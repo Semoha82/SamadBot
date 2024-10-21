@@ -1,3 +1,3 @@
 print("fsdfs")
 number = input("enter the number : ")
-print("number is : " + number )
+print("number is :  " + number )
